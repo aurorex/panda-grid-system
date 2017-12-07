@@ -1,0 +1,33 @@
+body{
+    font-family: 'Raleway', sans-serif;
+  }
+  img{
+    width: 100%;
+  }
+.main  {
+  background-color: #f48c68;
+  color: #ffffff;
+  padding: 50px 30px;
+  text-align: right ;
+
+}
+.principal-panda{
+  filter: grayscale(100%);
+  background-image: url(../assets/images/uno.jpg);
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+
+}
+.pinky-line{
+    background-color: orange;
+    height: 20px;
+}
+.green-text{
+    padding: 100px 0;
+    background-color: rgb(148, 224, 24);
+}
+.green-text .col-xs-4{
+    background-color: rgb(194, 41, 41) ;
+    padding: 20px;
+}
